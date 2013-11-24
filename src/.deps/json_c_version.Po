@@ -1,0 +1,6 @@
+json_c_version.o: third/json-c/json_c_version.c ../config.h \
+ third/json-c/json_c_version.h
+
+../config.h:
+
+third/json-c/json_c_version.h:
